@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Live Concert",
+    "description": "A live concert with famous bands.",
+    "type": "Concert",
+    "date": "2024-11-30T20:00:00",
+    "latitude": 40.7128,
+    "longitude": -74.0060,
+    "distance": 10
+  },
+  {
+    "id": 2,
+    "name": "Art Workshop",
+    "description": "An art workshop for beginners.",
+    "type": "Workshop",
+    "date": "2024-12-01T14:00:00",
+    "latitude": 40.7306,
+    "longitude": -73.9352,
+    "distance": 15
+  }
+]
